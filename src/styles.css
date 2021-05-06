@@ -1,0 +1,19 @@
+
+
+.box{
+    margin: 5%;
+    position: relative;
+    border-radius: 30px;
+    border: 1px solid black;
+    padding: 25px;
+}
+
+.eroare{
+    color: red;
+}
+
+.arata{
+    border: 1px solid green;
+    margin: 20px;
+    padding: 20px;
+}
