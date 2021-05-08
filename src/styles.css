@@ -17,3 +17,10 @@
     margin: 20px;
     padding: 20px;
 }
+.formular{
+    display: table-caption;
+}
+.butoane{
+    display: flex;
+    justify-content: space-between;
+}
